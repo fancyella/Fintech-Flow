@@ -1,6 +1,6 @@
 # FintechFlow — Finance Dashboard
 
-A polished responsive fintech dashboard built from scratch with HTML5, CSS3 and vanilla JavaScript.
+A polished responsive fintech dashboard built from scratch with HTML5, CSS and JavaScript.
 
 ## Highlights
 - Responsive dashboard and mobile navigation
